@@ -144,15 +144,15 @@
   <string name="climate_info_maintenance">+%1$d%% 维修费用, </string>
   <string name="climate_info_pop_growth">"%1$d%% 人口增长,
 "</string>
-  <string name="climate_info_pop_high">"高人口限制
+  <string name="climate_info_pop_high">"高人口上限
 "</string>
-  <string name="climate_info_pop_low">"低人口限制
+  <string name="climate_info_pop_low">"低人口上限
 "</string>
-  <string name="climate_info_pop_moderate">"合理人口限制
+  <string name="climate_info_pop_moderate">"中等人口上限
 "</string>
-  <string name="climate_info_pop_very_high">"极高人口限制
+  <string name="climate_info_pop_very_high">"极高人口上限
 "</string>
-  <string name="climate_info_pop_very_low">"极低人口限制
+  <string name="climate_info_pop_very_low">"极低人口上限
 "</string>
   <string name="climate_info_science_per_scientist">每1科学家%1$d 科技点, </string>
   <string name="climate_info_unable_to_farm">在这种气候下无法耕作, </string>
@@ -727,13 +727,13 @@
   <string name="galaxy_view_tutorial_header">银河界面教程</string>
   <string name="galaxy_view_tutorial_system">"标有名字的星系已经被你的舰队探索过了,这些星系可以在点击时进入"</string>
   <string name="galaxy_view_tutorial_unexplored">"这显示了该星系中未探索行星的数量"</string>
-  <string name="gravity_high">高重力</string>
-  <string name="gravity_info_header">%1$s倍重力</string>
+  <string name="gravity_high">高</string>
+  <string name="gravity_info_header">%1$s重力</string>
   <string name="gravity_info_high">减少50%的食物、生产和科技</string>
   <string name="gravity_info_low">减少25%的食物、生产和科技</string>
   <string name="gravity_info_normal">不影响食物、生产和科技</string>
   <string name="gravity_info_normalized">"重力已经被重力修改设施修改为正常了"</string>
-  <string name="gravity_low">低重力</string>
+  <string name="gravity_low">低</string>
   <string name="gravity_normal">正常</string>
   <string name="history_amount">数量</string>
   <string name="history_chart_0">人口</string>
