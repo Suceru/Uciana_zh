@@ -241,7 +241,7 @@
   <string name="component_selector_remove">移除</string>
   <string name="component_selector_shield_description">%1$d hp, 吸收 %2$d, %3$d%% 充能</string>
   <string name="component_selector_targeting_description">+%1$d 光束精度 +%2$d 光束伤害</string>
-  <string name="component_selector_weapon_count">%1$d %2$ss</string>
+  <string name="component_selector_weapon_count">%1$d %2$s</string>
   <string name="component_selector_weapon_description">%1$d-%2$d 伤害</string>
   <string name="component_selector_weapon_single">1 %1$s</string>
   <string name="computer_virus">计算机病毒</string>
