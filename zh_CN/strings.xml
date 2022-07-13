@@ -123,7 +123,7 @@
   <string name="building_tradegoods">货物贸易</string>
   <string name="building_virtual_reality_system">VR系统</string>
   <string name="building_zero_point_energy">真空零点能</string>
-  <string name="change_locale_message">您必须退出游戏并重新打开游戏才能使语言更改生效</string>
+  <string name="change_locale_message">你必须退出游戏并重新打开游戏才能使语言更改生效</string>
   <string name="change_modding_message">要启用游戏Mod设置,必须关闭并重新打开游戏</string>
   <string name="climate_aphotic_ocean">寂海世界</string>
   <string name="climate_arid">干旱之地</string>
@@ -219,7 +219,7 @@
   <string name="common_google_play_services_enable_text">"除非你启用Google Play服务, 否则%1$s将无法使用."</string>
   <string name="common_google_play_services_enable_title">启用Google Play服务</string>
   <string name="common_google_play_services_install_button">安装</string>
-  <string name="common_google_play_services_install_text">"必须在您的设备上安装Google Play服务才能运行%1$s"</string>
+  <string name="common_google_play_services_install_text">"必须在你的设备上安装Google Play服务才能运行%1$s"</string>
   <string name="common_google_play_services_install_title">获取Google Play服务</string>
   <string name="common_google_play_services_notification_channel_name">Google Play服务可用</string>
   <string name="common_google_play_services_notification_ticker">Google Play服务错误</string>
@@ -484,8 +484,8 @@
   <string name="empire_message_diplomatic_greeting_neutral_empire_3">这次碰面想干什么?</string>
   <string name="empire_message_diplomatic_greeting_neutral_empire_4">什么?</string>
   <string name="empire_message_diplomatic_greeting_neutral_empire_5">你为什么来到我们面前?</string>
-  <string name="empire_message_diplomatic_greeting_neutral_empire_6">需要我为您提供什么帮助吗?</string>
-  <string name="empire_message_diplomatic_greeting_positive_empire_0">尊敬的客人, 我们可以为您提供什么服务?</string>
+  <string name="empire_message_diplomatic_greeting_neutral_empire_6">需要我为你提供什么帮助吗?</string>
+  <string name="empire_message_diplomatic_greeting_positive_empire_0">尊敬的客人, 我们可以为你提供什么服务?</string>
   <string name="empire_message_diplomatic_greeting_positive_empire_1">"你好! 很高兴见到你, 我们能为你做什么?"</string>
   <string name="empire_message_diplomatic_greeting_positive_empire_2">愿圣光与你同在, 朋友. </string>
   <string name="empire_message_diplomatic_greeting_positive_empire_3">很高兴再次与你见面. </string>
@@ -500,7 +500,7 @@
   <string name="empire_message_first_contact_negative_empire_5">你们是另一个弱小的文明, 虫群将吞噬你们. </string>
   <string name="empire_message_first_contact_negative_empire_6">我们的朋友透露了你的情况. 他们没有什么好话可说. </string>
   <string name="empire_message_first_contact_neutral_empire_0">嗨,我们是塔利什.</string>
-  <string name="empire_message_first_contact_neutral_empire_1">"人类联盟向您问好. "</string>
+  <string name="empire_message_first_contact_neutral_empire_1">"人类联盟向你问好. "</string>
   <string name="empire_message_first_contact_neutral_empire_2">认识你是一种幸运. </string>
   <string name="empire_message_first_contact_neutral_empire_3">我们是强大的达加西帝国, 问候. </string>
   <string name="empire_message_first_contact_neutral_empire_4">你好, 我们是拜伦共同体. </string>
@@ -649,7 +649,7 @@
   <string name="engine_none">无亚光引擎</string>
   <string name="engine_phased">相位引擎</string>
   <string name="events_building_scrapped">由于债务问题,  %1$s在 %2$s上的项目被取消了. </string>
-  <string name="events_capital_destroyed">您的首都%1$s已被摧毁</string>
+  <string name="events_capital_destroyed">你的首都%1$s已被摧毁</string>
   <string name="events_colony_destroyed">位于%1$s的殖民地已被摧毁</string>
   <string name="events_colony_invaded">位于%1$s的殖民地已被占领</string>
   <string name="events_empire_contact">已与%1$s取得联系</string>
@@ -673,7 +673,7 @@
   <string name="exploration_find_effect_colony">殖民地加入你的文明</string>
   <string name="exploration_find_effect_found">已发现</string>
   <string name="exploration_find_effect_outpost">已被重新占领为前哨站</string>
-  <string name="exploration_find_effect_ship">已被添加到您的舰队</string>
+  <string name="exploration_find_effect_ship">已被添加到你的舰队</string>
   <string name="exploration_find_effect_to">to </string>
   <string name="exploration_find_fleet_device">舰队维护设备</string>
   <string name="exploration_find_friendly_race">友善的文明</string>
@@ -1368,7 +1368,7 @@ QQChannel:pd7603xop9  </string>
   <string name="ship_design_production_cost">生产花费:</string>
   <string name="ship_design_save">保存</string>
   <string name="ship_design_saved">舰船设计已保存</string>
-  <string name="ship_design_select">选择一种设计来改装您的舰船</string>
+  <string name="ship_design_select">选择一种设计来改装你的舰船</string>
   <string name="ship_design_ship_yard_message">需要可以改装此类舰船的船坞</string>
   <string name="ship_design_unable_to_save_negative_space">"无法保存舰船设计. 无可用空间
 请减少已用空间"</string>
@@ -1433,7 +1433,7 @@ QQChannel:pd7603xop9  </string>
   <string name="star_red_description">红色恒星出现可居住行星的机会很低, 出现富含矿物的行星的机会也很低</string>
   <string name="star_white_description">白色恒星有很好的机会出现可居住的行星, 也有很好的机会出现富含矿物的行星</string>
   <string name="star_yellow_description">黄色恒星有很大机会出现可居住的行星, 也有很大机会出现富含矿物质的行星</string>
-  <string name="starved_description">您需要将人口从另一个殖民地转移到这个殖民地</string>
+  <string name="starved_description">你需要将人口从另一个殖民地转移到这个殖民地</string>
   <string name="starved_title">%1$s上的人口已经灭绝了</string>
   <string name="station_starbase">星空基地</string>
   <string name="station_turret">导弹炮塔</string>
