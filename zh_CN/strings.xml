@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigate up</string>
@@ -173,7 +173,7 @@
   <string name="climate_tropical_ocean">热带海洋</string>
   <string name="climate_tundra">冻土世界</string>
   <string name="climate_volcanic">火山世界</string>
-  <string name="colony_production_never">从不</string>
+  <string name="colony_production_never">无法完成</string>
   <string name="colony_production_none">无</string>
   <string name="colony_production_ongoing">正在进行</string>
   <string name="colony_production_select">选择设置生产</string>
@@ -265,13 +265,13 @@
   <string name="confirm_attack">攻击将导致战争:</string>
   <string name="confirm_auto_off">确定关闭自动建造?</string>
   <string name="confirm_auto_off_message">该殖民地的自动建造已经启用, 并将取代贸易商品.</string>
-  <string name="confirm_building_sale">"报废 '%1$s' 将使你获得 %2$d"</string>
+  <string name="confirm_building_sale">"报废 '%1$s' 将获得 %2$d"</string>
   <string name="confirm_delete">删除保存?</string>
   <string name="confirm_finishing">"完成 '%1$s' 将花费你 %2$d"</string>
   <string name="confirm_finishing_not_short">你的文明拥有 %1$d</string>
   <string name="confirm_finishing_short">你的文明缺少 %1$d</string>
   <string name="confirm_remove_ship_design">移除舰船设计?</string>
-  <string name="confirm_scrap_of_refit">动作将导致%1$s的报废</string>
+  <string name="confirm_scrap_of_refit">操作将导致%1$s报废</string>
   <string name="confirm_scrapping_many_ships">报废%1$d 舰船将使你获得%2$d</string>
   <string name="confirm_scrapping_many_ships_out_of_system">报废%1$d 舰船不会获得任何东西</string>
   <string name="confirm_scrapping_one_ship">报废舰船将使你获得%1$d</string>
@@ -287,13 +287,13 @@
   <string name="construction_ship_name_8" />
   <string name="construction_ship_name_9" />
   <string name="credits_donation">赠送信用点</string>
-  <string name="credits_donation_others_0">许多信用点刚刚捐赠给银河系的另一个文明.</string>
+  <string name="credits_donation_others_0">许多信用点刚刚捐赠给银河的另一个文明.</string>
   <string name="credits_donation_others_1">一个非常慈善的捐赠者刚刚给了另一个文明许多信用点. 这似乎是一种浪费, 因为它没有给我们.</string>
-  <string name="credits_donation_others_2">银河系中并不都是黑暗和阴霾. 我们刚刚听说有人向另一个文明捐赠了信用点.</string>
+  <string name="credits_donation_others_2">银河中并不都是黑暗和阴霾. 我们刚刚听说有人向另一个文明捐赠了信用点.</string>
   <string name="credits_donation_others_3">一位匿名捐赠者为另一个文明提供了信用点.</string>
   <string name="credits_donation_others_4">智慧生命体之间的互动很奇怪. 似乎有人向另一个文明捐赠了大量的信用点.</string>
   <string name="credits_donation_others_5">有人刚刚向另一个文明捐赠了大量信用点.</string>
-  <string name="credits_donation_others_6">善意再次在银河系传播. 一位匿名捐赠者向另一个文明提供了信用点.</string>
+  <string name="credits_donation_others_6">善意再次在银河传播. 一位匿名捐赠者向另一个文明提供了信用点.</string>
   <string name="credits_donation_others_7">credits_donation_others_7</string>
   <string name="credits_donation_them_0">一位匿名捐赠者给了我们%1$d的信用点, 荣耀和荣誉归于他们.</string>
   <string name="credits_donation_them_1">我们对刚刚收到的%1$d信用点的捐赠表示感谢. 人类联盟一定会把它们用到最好.</string>
@@ -305,9 +305,9 @@
   <string name="credits_donation_them_7">credits_donation_them_7 %1$d</string>
   <string name="credits_stolen">信用点被盗</string>
   <string name="credits_stolen_others_0">另一个文明发生了一件非常不光彩的事情. 他们有一大笔信用点被盗.</string>
-  <string name="credits_stolen_others_1">我们需要密切关注我们的信用点. 银河系中的盗贼已经从另一个文明那里偷了东西.</string>
-  <string name="credits_stolen_others_2">黑暗在整个银河系蔓延, 邪恶的行为不断发生. 另一个文明的信用点被盗.</string>
-  <string name="credits_stolen_others_3">另一个文明对他们的安全太放松了. 许多信用点从他们那里被盗.</string>
+  <string name="credits_stolen_others_1">我们需要密切关注我们的信用点. 银河中的盗贼已经从另一个文明那里偷了东西.</string>
+  <string name="credits_stolen_others_2">黑暗在整个银河蔓延, 邪恶的行为不断发生. 另一个文明的信用点被盗.</string>
+  <string name="credits_stolen_others_3">另一个文明对他们的安保太放松了. 他们被盗了许多信用点.</string>
   <string name="credits_stolen_others_4">另一个文明发生了一个无法估量的事件, 许多信用点被盗.</string>
   <string name="credits_stolen_others_5">报告显示, 另一个文明的信用点被盗.</string>
   <string name="credits_stolen_others_6">另一个文明的信用点被盗. 我们对有人会如此不友善深感失望.</string>
@@ -334,7 +334,7 @@
   <string name="customize_done">完成</string>
   <string name="customize_header">选择 / 取消属性</string>
   <string name="customize_random">随机</string>
-  <string name="depleted_mineral_deposits">矿脉已经枯竭</string>
+  <string name="depleted_mineral_deposits">矿脉枯竭</string>
   <string name="depleted_mineral_deposits_known_0">世界%1$s的一个矿脉刚刚被完全耗尽. </string>
   <string name="depleted_mineral_deposits_known_1">行星%1$s已经失去了一个矿脉. </string>
   <string name="depleted_mineral_deposits_known_2">黑暗在世界%1$s上又扩散了一些. 那里的一个矿脉已经被耗尽. </string>
@@ -398,20 +398,20 @@
 长久以来, 阿梅利虫群为争夺至高无上的地位而战, 
 每个成员都认为自己是唯一真正的主宰. 
 最终, 一个虫群统治了整个世界:阿梅利. 
-在战胜了它的兄弟并拓展到它的领地的所有角落之后, 
-阿梅利虫群现在寻求将整个银河系纳入一体之中. </string>
+在战胜了它的兄弟并侵蚀了所有领地之后, 
+阿梅利虫群现在寻求将整个银河纳入一体之中. </string>
   <string name="empire_description_bylon">坚韧性和适应性; 对缓慢移动的软体机器人来说, 
 这两个特征几乎是到达星际所必需的. 拜伦人为了实现太空飞行, 
 摆脱了脆弱的身体形态, 实现了机械飞升. 
 在完成这项工作后, 他们很快实现了太空飞行, 
 正在寻求探索和扩张到他们脆弱的祖先梦寐以求的地方. </string>
   <string name="empire_description_dargathi">作为一个来自行星环境恶劣的凶猛文明, 
-达加西人是银河系的狂暴斗士. 由于厌倦了内部冲突和竞争, 
+达加西人是银河的狂暴斗士. 由于厌倦了内部冲突和竞争, 
 达加西人合作只是为了寻求与其他文明战斗和征服银河. 
 想要激怒达加西人很容易. 如果达加西人没有开战, 
 那只是意味着他们还没有遇到下一个对手. </string>
   <string name="empire_description_human">"尽管人类勤劳而顽强, 但其真正的力量是精明的谈判. 
-人类是银河系中最优秀的谈判者、外交家和商人. 
+人类是银河中最优秀的谈判者、外交家和商人. 
 因此, 低估人类参与战争的能力和意愿是一个不明智的选择, 
 而且通常是致命的. "</string>
   <string name="empire_description_marrenaree">马雷纳里人是一个友善、乐观的文明. 他们热爱学习, 
@@ -457,14 +457,14 @@
   <string name="empire_info_report">%1$s的情报</string>
   <string name="empire_info_technologies">科技</string>
   <string name="empire_info_wars">战争</string>
-  <string name="empire_message_break_treaty_empire_0">我们很遗憾, 我们必须中断与你在%1$s的合作. </string>
+  <string name="empire_message_break_treaty_empire_0">很遗憾, 我们必须中断与你在%1$s的合作. </string>
   <string name="empire_message_break_treaty_empire_1">这%1$s对我们不再有好处. </string>
   <string name="empire_message_break_treaty_empire_2">我们认识到, 在%1$s的问题上, 我们必须走自己的路. </string>
-  <string name="empire_message_break_treaty_empire_3">是时候做决定了. 我们的%1$s已经到了尽头.</string>
+  <string name="empire_message_break_treaty_empire_3">是时候做决定了. 我们的%1$s合作已经到了尽头.</string>
   <string name="empire_message_break_treaty_empire_4">编译数据中, 我们确定%1$s必须终止. </string>
   <string name="empire_message_break_treaty_empire_5">虫群应该知道, 与外人合作是没有好处的. 我们希望结束我们的%1$s</string>
   <string name="empire_message_break_treaty_empire_6">我们将结束与你的%1$s. 它不再给我们带来快乐. </string>
-  <string name="empire_message_declare_war_empire_0">我们期待着用你们来检验自己. </string>
+  <string name="empire_message_declare_war_empire_0">我们期待着通过你们来检验自己. </string>
   <string name="empire_message_declare_war_empire_1">你会为此感到后悔的. </string>
   <string name="empire_message_declare_war_empire_2">你会后悔的, 圣光已经离开了你. </string>
   <string name="empire_message_declare_war_empire_3">Good...., 好戏开场了.</string>
@@ -485,21 +485,21 @@
   <string name="empire_message_diplomatic_greeting_neutral_empire_4">什么?</string>
   <string name="empire_message_diplomatic_greeting_neutral_empire_5">你为什么来到我们面前?</string>
   <string name="empire_message_diplomatic_greeting_neutral_empire_6">需要我为您提供什么帮助吗?</string>
-  <string name="empire_message_diplomatic_greeting_positive_empire_0">尊敬的客人, 我们可以为您提供什么服务. </string>
+  <string name="empire_message_diplomatic_greeting_positive_empire_0">尊敬的客人, 我们可以为您提供什么服务?</string>
   <string name="empire_message_diplomatic_greeting_positive_empire_1">"你好! 很高兴见到你, 我们能为你做什么?"</string>
   <string name="empire_message_diplomatic_greeting_positive_empire_2">愿圣光与你同在, 朋友. </string>
   <string name="empire_message_diplomatic_greeting_positive_empire_3">很高兴再次与你见面. </string>
-  <string name="empire_message_diplomatic_greeting_positive_empire_4">编译中 让我们互相通信. </string>
+  <string name="empire_message_diplomatic_greeting_positive_empire_4">编译中...让我们互相通信. </string>
   <string name="empire_message_diplomatic_greeting_positive_empire_5">很高兴再次与你见面. </string>
-  <string name="empire_message_diplomatic_greeting_positive_empire_6">欢迎朋友! 我能为你做什么?</string>
+  <string name="empire_message_diplomatic_greeting_positive_empire_6">欢迎朋友! 我能为你做些什么?</string>
   <string name="empire_message_first_contact_negative_empire_0">"你们是一个可悲的可怜的文明, 你们应该害怕塔利什人. "</string>
   <string name="empire_message_first_contact_negative_empire_1">你让我们感到恶心. </string>
   <string name="empire_message_first_contact_negative_empire_2">我们已经预见过会遇到像你们这样的生物. </string>
   <string name="empire_message_first_contact_negative_empire_3">你是如何存活了这么久的?</string>
-  <string name="empire_message_first_contact_negative_empire_4">松散的肉体...问候. </string>
+  <string name="empire_message_first_contact_negative_empire_4">松散的肉体...嗨. </string>
   <string name="empire_message_first_contact_negative_empire_5">你们是另一个弱小的文明, 虫群将吞噬你们. </string>
   <string name="empire_message_first_contact_negative_empire_6">我们的朋友透露了你的情况. 他们没有什么好话可说. </string>
-  <string name="empire_message_first_contact_neutral_empire_0">问候,我们是塔利什.</string>
+  <string name="empire_message_first_contact_neutral_empire_0">嗨,我们是塔利什.</string>
   <string name="empire_message_first_contact_neutral_empire_1">"人类联盟向您问好. "</string>
   <string name="empire_message_first_contact_neutral_empire_2">认识你是一种幸运. </string>
   <string name="empire_message_first_contact_neutral_empire_3">我们是强大的达加西帝国, 问候. </string>
@@ -624,12 +624,12 @@
   <string name="empire_name_sothren">索斯伦教派</string>
   <string name="empire_name_tarlish">塔利什帝国</string>
   <string name="empire_no_assets">无</string>
-  <string name="empire_no_capital_warning">没有经济-25%的幸福</string>
+  <string name="empire_no_capital_warning">没有信用点, -25%的幸福点</string>
   <string name="empire_per_turn">每1回合</string>
   <string name="empire_race_perks">文明属性</string>
   <string name="empire_shipping_costs">运输花费</string>
   <string name="empire_tax_rate">工业税率</string>
-  <string name="empire_tax_rate_desc">(将产量的%转化为信用点)</string>
+  <string name="empire_tax_rate_desc">(将产量的百分比转化为信用点)</string>
   <string name="empire_tech">科技</string>
   <string name="empire_tech_colony_scanning_range">殖民地扫描器的范围: %1$d ly</string>
   <string name="empire_tech_ftl_speed">超光速引擎速度:每回合%1$d ly</string>
@@ -649,15 +649,15 @@
   <string name="engine_none">无亚光引擎</string>
   <string name="engine_phased">相位引擎</string>
   <string name="events_building_scrapped">由于债务问题,  %1$s在 %2$s上的项目被取消了. </string>
-  <string name="events_capital_destroyed">您在%1$s的首都已被摧毁</string>
+  <string name="events_capital_destroyed">您的首都%1$s已被摧毁</string>
   <string name="events_colony_destroyed">位于%1$s的殖民地已被摧毁</string>
-  <string name="events_colony_invaded">位于%1$s的殖民地已被入侵</string>
+  <string name="events_colony_invaded">位于%1$s的殖民地已被占领</string>
   <string name="events_empire_contact">已与%1$s取得联系</string>
   <string name="events_empire_destroyed">%1$s已被摧毁</string>
   <string name="events_outpost_destroyed">位于%1$s的前哨站已被摧毁</string>
   <string name="events_planet_terraformed">%1$s改造为%2$s</string>
   <string name="events_system_explored">%1$s 已探索</string>
-  <string name="events_tech_from_diplomats">我们的外交官已经取得了关于%1$s</string>
+  <string name="events_tech_from_diplomats">我们的外交官已经取得了%1$s</string>
   <string name="events_tech_from_explorers">我们的探险船已经探索了%1$s</string>
   <string name="events_tech_from_scientists">我们的科学家已经发明了%1$s</string>
   <string name="events_tech_from_troops">我们的部队已经夺回了%1$s</string>
@@ -690,8 +690,8 @@
   <string name="fleet_control_ship_selected_count">%1$d 已选择</string>
   <string name="fleet_control_ship_total_count">总计 %1$d</string>
   <string name="fleet_destination_in_orbit">处于%1$s 环绕轨道</string>
-  <string name="fleet_destination_in_route_turn">正在接近%1$s, 等待1回合</string>
-  <string name="fleet_destination_in_route_turns">正在接近%1$s, 等待%2$d回合</string>
+  <string name="fleet_destination_in_route_turn">正在接近%1$s, 还需1回合</string>
+  <string name="fleet_destination_in_route_turns">正在接近%1$s, 还需%2$d回合</string>
   <string name="fleet_maintenance_tutorial_header">舰队维护教程</string>
   <string name="fleet_maintenance_tutorial_message">"你建造了太多的舰船, 你的舰队维护点是负数. 
 每1个负的舰队维护点将使你的文明每1回合损失%1$d的信用点. "</string>
@@ -729,10 +729,10 @@
   <string name="galaxy_view_tutorial_unexplored">"这显示了该星系中未探索行星的数量"</string>
   <string name="gravity_high">高</string>
   <string name="gravity_info_header">%1$s重力</string>
-  <string name="gravity_info_high">减少50%的食物、生产和科技</string>
-  <string name="gravity_info_low">减少25%的食物、生产和科技</string>
-  <string name="gravity_info_normal">不影响食物、生产和科技</string>
-  <string name="gravity_info_normalized">"重力已经被重力修改设施修改为正常了"</string>
+  <string name="gravity_info_high">减少50%的食物、生产和科技产出</string>
+  <string name="gravity_info_low">减少25%的食物、生产和科技产出</string>
+  <string name="gravity_info_normal">不影响食物、生产和科技产出</string>
+  <string name="gravity_info_normalized">"重力已经被重力调节设施修改为正常了"</string>
   <string name="gravity_low">低</string>
   <string name="gravity_normal">正常</string>
   <string name="history_amount">数量</string>
@@ -741,7 +741,7 @@
   <string name="history_chart_2">星系数量</string>
   <string name="history_chart_3">使用的维护点（舰队规模）</string>
   <string name="history_chart_4">每1回合食物</string>
-  <string name="history_chart_5">每1回合产量</string>
+  <string name="history_chart_5">每1回合生产</string>
   <string name="history_chart_6">每1回合科技</string>
   <string name="history_chart_7">完成科技的总研究点</string>
   <string name="history_chart_8">每1回合产生的信用点</string>
@@ -967,8 +967,9 @@
   <string name="low_credits_description">增加税收、生产产品、出售建筑、报废舰船以防止这种情况发生</string>
   <string name="low_credits_header">你的文明有太多的债务, 一个建筑或舰船将被报废</string>
   <string name="menu_build">v%1$s  
-Translator: Suceru  
-QQGroup: 517521201  
+Translator:Suceru  
+proofread:supercluster
+QQGroup:517521201  
 QQChannel:pd7603xop9  </string>
   <string name="menu_continue">继续游戏</string>
   <string name="menu_exit">退出游戏</string>
@@ -1200,7 +1201,7 @@ QQChannel:pd7603xop9  </string>
   <string name="races_block_ai">查看/拒绝AI建议</string>
   <string name="races_status_alliance">联盟</string>
   <string name="races_status_destroyed">被摧毁</string>
-  <string name="races_status_non_aggression">互不侵略协议</string>
+  <string name="races_status_non_aggression">互不侵犯协议</string>
   <string name="races_status_peace">和平</string>
   <string name="races_status_war">战争</string>
   <string name="random_ai_no">否</string>
@@ -1211,7 +1212,7 @@ QQChannel:pd7603xop9  </string>
   <string name="relation_status_distrust">怀疑</string>
   <string name="relation_status_friendly">友善</string>
   <string name="relation_status_hate">仇恨</string>
-  <string name="relation_status_like">喜欢</string>
+  <string name="relation_status_like">喜爱</string>
   <string name="relation_status_love">亲密</string>
   <string name="relation_status_neutral">中立</string>
   <string name="relation_status_trusting">信任</string>
@@ -1234,7 +1235,7 @@ QQChannel:pd7603xop9  </string>
   <string name="research_breakthrough_them_6">我们的科学家孜孜不倦的研究, 使我们的研究点增加了%1$d. 我们对他们的知识表示感谢. </string>
   <string name="research_breakthrough_them_7">research_breakthrough_them_7 %1$d</string>
   <string name="research_status_done">完成</string>
-  <string name="research_status_never">从不</string>
+  <string name="research_status_never">无法完成</string>
   <string name="research_status_turn">1回合 (100%)</string>
   <string name="research_status_turns">%1$d回合%2$s</string>
   <string name="research_tutorial_background">背景颜色</string>
@@ -1370,7 +1371,7 @@ QQChannel:pd7603xop9  </string>
   <string name="ship_design_select">选择一种设计来改装您的舰船</string>
   <string name="ship_design_ship_yard_message">需要可以改装此类舰船的船坞</string>
   <string name="ship_design_unable_to_save_negative_space">"无法保存舰船设计. 无可用空间
-减少已用空间"</string>
+请减少已用空间"</string>
   <string name="ship_detail_no_movement">没有行动点</string>
   <string name="ship_select_auto">自动</string>
   <string name="ship_select_many">已选择%1$d艘舰船</string>
@@ -1424,7 +1425,7 @@ QQChannel:pd7603xop9  </string>
   <string name="special_component_shield_capacitor">电容护盾</string>
   <string name="special_component_shield_capacitor_desc">+10%的额外充电速度</string>
   <string name="special_component_troop_pods">部队舱位</string>
-  <string name="special_component_troop_pods_desc">运送入侵的部队 - 一次性可用</string>
+  <string name="special_component_troop_pods_desc">运送地面部队 - 一次性可用</string>
   <string name="spy_network_needed">需要的情报网络</string>
   <string name="star_blue_description">蓝色恒星出现可居住行星的几率很低, 而出现富含矿物的行星的几率很大</string>
   <string name="star_brown_description">棕色恒星有一般的机会出现可居住的行星, 有很好的机会出现富含矿物的行星</string>
@@ -1562,7 +1563,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_automated_farm_description">+%1$d食物</string>
   <string name="tech_automated_farm_short">自动化农场</string>
   <string name="tech_bio_weapon_bomb">生物武器炸弹</string>
-  <string name="tech_bio_weapon_bomb_description">"一枚炸弹只针对一个行星上的人口和步兵
+  <string name="tech_bio_weapon_bomb_description">"一枚只针对行星上的人口和步兵的炸弹
 
 此炸弹对这些目标造成%1$d-%2$d的伤害"</string>
   <string name="tech_bio_weapon_bomb_short">生物武器炸弹</string>
@@ -1682,11 +1683,11 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_level_6">等级6</string>
   <string name="tech_level_7">等级7</string>
   <string name="tech_level_8">等级8</string>
-  <string name="tech_level_needed">你需要完成 %1$s 等级%2$d 的一项科技才能研究该科技</string>
-  <string name="tech_level_needed_all">你需要完成 %1$s 等级%2$d的所有科技才能研究该科技</string>
-  <string name="tech_level_needed_random">你需要完成 %1$s 等级2$d的一项科技才能研究等级%3$d的科技</string>
-  <string name="tech_level_only_one">每个等级只允许研究一种技术</string>
-  <string name="tech_level_random">每个等级只允许一项随机技术</string>
+  <string name="tech_level_needed">需要完成 %1$s 等级%2$d 的一项科技才能研究该科技</string>
+  <string name="tech_level_needed_all">需要完成 %1$s 等级%2$d的所有科技才能研究该科技</string>
+  <string name="tech_level_needed_random">需要完成 %1$s 等级2$d的一项科技才能研究等级%3$d的科技</string>
+  <string name="tech_level_only_one">每个等级只允许研究一项科技</string>
+  <string name="tech_level_random">每个等级只允许一项随机科技</string>
   <string name="tech_miniaturization">微型化</string>
   <string name="tech_miniaturization_description">未来科技</string>
   <string name="tech_mining_outpost">小行星采矿前哨站</string>
@@ -1872,7 +1873,7 @@ QQChannel:pd7603xop9  </string>
   <string name="time_hours">小时</string>
   <string name="time_min">分钟</string>
   <string name="time_mins">分钟</string>
-  <string name="time_secs">秒 (翻译: Suceru  QQ群: 517521201  QQ频道:pd7603xop9)</string>
+  <string name="time_secs">秒 (翻译:Suceru  校对:supercluster QQ群:517521201  QQ频道:pd7603xop9)</string>
   <string name="transport_name_0">运输船</string>
   <string name="transport_name_1">搬运船</string>
   <string name="transport_name_2">十字船</string>
