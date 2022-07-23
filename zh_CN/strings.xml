@@ -69,7 +69,7 @@
   <string name="battleship_name_7" />
   <string name="battleship_name_8" />
   <string name="battleship_name_9" />
-  <string name="blackhole_description">在黑洞的%1$d ly范围内, 舰船移动速度减半</string>
+  <string name="blackhole_description">在黑洞的%1$d 光年范围内, 舰船移动速度减半</string>
   <string name="blackhole_frequency_less">更少</string>
   <string name="blackhole_frequency_more">更多</string>
   <string name="blackhole_frequency_normal">普通</string>
@@ -119,7 +119,7 @@
   <string name="building_spy_network">情报网络</string>
   <string name="building_star_base">星空基地</string>
   <string name="building_terraforming">地形改造</string>
-  <string name="building_torpedo_turrets">导弹炮塔</string>
+  <string name="building_torpedo_turrets">导弹基地</string>
   <string name="building_tradegoods">货物贸易</string>
   <string name="building_virtual_reality_system">VR系统</string>
   <string name="building_zero_point_energy">真空零点能</string>
@@ -427,7 +427,7 @@
   <string name="empire_description_tarlish">"长达数世纪的战争将塔利什帝国塑造成一个好战的文明, 
 将个人的勇气和荣誉看得比什么都重要. 无论如何他们的战术能力很强, 
 塔利什战士行动迅速, 非常愿意为帝国效劳和奉献自己的生命. 
-'宁死不屈;宁死不辱；帝国万岁. '"</string>
+'宁死不屈;宁死不辱;帝国万岁. '"</string>
   <string name="empire_destroyed_colonies_wiped_out">所有的殖民地都已被摧毁</string>
   <string name="empire_destroyed_known">%1$s已灭亡</string>
   <string name="empire_destroyed_other_starve">他们的人口已经消亡</string>
@@ -631,12 +631,12 @@
   <string name="empire_tax_rate">工业税率</string>
   <string name="empire_tax_rate_desc">(将产量的百分比转化为信用点)</string>
   <string name="empire_tech">科技</string>
-  <string name="empire_tech_colony_scanning_range">殖民地扫描器的范围: %1$d ly</string>
-  <string name="empire_tech_ftl_speed">超光速引擎速度:每回合%1$d ly</string>
-  <string name="empire_tech_fuel_range">最大燃料储量: %1$s ly</string>
+  <string name="empire_tech_colony_scanning_range">殖民地扫描器的范围: %1$d 光年</string>
+  <string name="empire_tech_ftl_speed">超光速引擎速度:每回合%1$d 光年</string>
+  <string name="empire_tech_fuel_range">最大燃料储量: %1$s 光年</string>
   <string name="empire_tech_fuel_unlimited">无限量</string>
-  <string name="empire_tech_ship_communication_range">舰船通讯范围: %1$d ly</string>
-  <string name="empire_tech_ship_scanning_range">舰船扫描范围: %1$d ly</string>
+  <string name="empire_tech_ship_communication_range">舰船通讯范围: %1$d 光年</string>
+  <string name="empire_tech_ship_scanning_range">舰船扫描范围: %1$d 光年</string>
   <string name="empire_time_played">游戏时间: %1$s</string>
   <string name="empire_trade_item_credits">信用点</string>
   <string name="empire_trade_item_exploration_data">探测数据</string>
@@ -739,7 +739,7 @@
   <string name="history_chart_0">人口</string>
   <string name="history_chart_1">殖民地数</string>
   <string name="history_chart_2">星系数量</string>
-  <string name="history_chart_3">使用的维护点（舰队规模）</string>
+  <string name="history_chart_3">使用的维护点(舰队规模)</string>
   <string name="history_chart_4">每1回合食物</string>
   <string name="history_chart_5">每1回合生产</string>
   <string name="history_chart_6">每1回合科技</string>
@@ -1070,13 +1070,13 @@ QQChannel:pd7603xop9  </string>
   <string name="options_google_play_signin">登录Google Play游戏</string>
   <string name="options_google_play_signout">注销Google Play游戏</string>
   <string name="options_google_play_view_achievements">浏览成就</string>
-  <string name="options_hide_surface_lh">隐藏殖民地的表面图像（大型,巨大星系）</string>
-  <string name="options_hide_surface_sm">隐藏殖民地的表面图像（小型,中等星系）</string>
+  <string name="options_hide_surface_lh">隐藏殖民地的表面图像(大型,巨大星系)</string>
+  <string name="options_hide_surface_sm">隐藏殖民地的表面图像(小型,中等星系)</string>
   <string name="options_modding">启用游戏资产的Mod功能</string>
   <string name="options_music">背景音乐</string>
   <string name="options_music_volume">音乐音量</string>
   <string name="options_options">游戏设置</string>
-  <string name="options_performance">性能设置（打开这些设置后游戏运行更流畅）</string>
+  <string name="options_performance">性能设置(打开这些设置后游戏运行更流畅)</string>
   <string name="options_reset_tutorial">重新显示游戏教程</string>
   <string name="options_sound">游戏音效</string>
   <string name="options_sound_volume">音效音量</string>
@@ -1085,7 +1085,7 @@ QQChannel:pd7603xop9  </string>
   <string name="options_tutorial_message">游戏教程将再次显示</string>
   <string name="options_tutorial_videos">教学视频</string>
   <string name="options_vibrate">开启振动</string>
-  <string name="out_of_range_description">这个星系距离你有%1$d ly, 你目前的燃料储量是%2$d ly. </string>
+  <string name="out_of_range_description">这个星系距离你有%1$d 光年, 你目前的燃料储量是%2$d 光年. </string>
   <string name="out_of_range_header">"没有足够的燃料储量到达此星系"</string>
   <string name="percent_system_objects_less">更少</string>
   <string name="percent_system_objects_normal">普通</string>
@@ -1104,7 +1104,7 @@ QQChannel:pd7603xop9  </string>
   <string name="perks_evasion">闪避</string>
   <string name="perks_for_ground_combat">为地面作战</string>
   <string name="perks_for_new_colonies">为新殖民地</string>
-  <string name="perks_max_population">最大人口</string>
+  <string name="perks_max_population">人口上限</string>
   <string name="perks_no_perks">未选择属性</string>
   <string name="perks_per_colony">每1殖民地</string>
   <string name="perks_per_farmer">每1农民</string>
@@ -1162,7 +1162,7 @@ QQChannel:pd7603xop9  </string>
   <string name="planet_list_tutorial_message">在此界面上, 你可以看到你的殖民地以及无人居住行星和有人居住行星的列表.</string>
   <string name="planet_list_tutorial_production">生产信息 - 显示你的殖民地目前正在进行什么工作, 点击进入该殖民地的生产界面. </string>
   <string name="planet_list_tutorial_uninhabited_planets">无人居住的行星</string>
-  <string name="planet_max_pop">最大人口: %1$dm</string>
+  <string name="planet_max_pop">人口上限: %1$dm</string>
   <string name="planet_mineral_richness">%1$s 矿物</string>
   <string name="planet_per_1m">每1m</string>
   <string name="planet_size_climate">%1$s %2$s</string>
@@ -1305,7 +1305,7 @@ QQChannel:pd7603xop9  </string>
   <string name="select_attack_header_fleet">选择舰队在%1$s星系中进行攻击</string>
   <string name="select_attack_header_fleet_or_planet">请从%1$s星系中选择要攻击的行星或舰队</string>
   <string name="select_attack_header_planet">请从%1$s星系中选择要攻击的行星</string>
-  <string name="select_attack_max_pop">最大人口: %1$dm</string>
+  <string name="select_attack_max_pop">人口上限: %1$dm</string>
   <string name="select_attack_message">选择攻击的界面将在下回合开始时显示. </string>
   <string name="select_attack_mining_outpost">采矿前哨站</string>
   <string name="select_attack_scene_toggle">切换自动选择攻击提示</string>
@@ -1376,7 +1376,7 @@ QQChannel:pd7603xop9  </string>
   <string name="ship_select_auto">自动</string>
   <string name="ship_select_many">已选择%1$d艘舰船</string>
   <string name="ship_select_out_of_comm_range">超出通讯范围</string>
-  <string name="ship_select_out_of_comm_range_details">(距离文明%1$d ly - 超光速通讯范围: %2$d ly)</string>
+  <string name="ship_select_out_of_comm_range_details">(距离文明%1$d 光年 - 超光速通讯范围: %2$d 光年)</string>
   <string name="ship_select_refit">选择要改装的舰船</string>
   <string name="ship_select_refit_ship_yard_needed">改造该级别舰船所需的船坞</string>
   <string name="ship_select_single">选择了1艘舰船</string>
@@ -1411,7 +1411,7 @@ QQChannel:pd7603xop9  </string>
   <string name="space_rift_frequency_less">更少</string>
   <string name="space_rift_frequency_more">更多</string>
   <string name="space_rift_frequency_normal">普通</string>
-  <string name="spacial_rift_description">在时空裂隙的%1$d ly范围内, 舰队速度增加50%%. </string>
+  <string name="spacial_rift_description">在时空裂隙的%1$d 光年范围内, 舰队速度增加50%%. </string>
   <string name="spacial_rift_header">时空裂隙</string>
   <string name="special_component_alloy">增强合金</string>
   <string name="special_component_alloy_desc">增加25%的护盾hp</string>
@@ -1509,7 +1509,7 @@ QQChannel:pd7603xop9  </string>
   <string name="system_peek_tutorial_description2">然后用手指滑过你已经探索过的行星, 就可以速览那个星系了</string>
   <string name="system_peek_tutorial_header">星系速览教程</string>
   <string name="system_peek_tutorial_message">星系速览</string>
-  <string name="system_planet_max_pop">最大人口: %1$dm</string>
+  <string name="system_planet_max_pop">人口上限: %1$dm</string>
   <string name="system_preview_blackhole">黑洞</string>
   <string name="system_preview_planet_unexplored">未探索</string>
   <string name="system_preview_planet_unknown">未知</string>
@@ -1541,14 +1541,14 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_advanced_chemical_mining_description">每1工人的生产增加1</string>
   <string name="tech_advanced_chemical_mining_short">高级化学采矿</string>
   <string name="tech_antimatter_bomb">反物质炸弹</string>
-  <string name="tech_antimatter_bomb_description">一枚对行星目标（建筑物、人口、步兵）造成%1$d-%2$d伤害的炸弹. </string>
+  <string name="tech_antimatter_bomb_description">一枚对行星目标(建筑物、人口、步兵)造成%1$d-%2$d伤害的炸弹. </string>
   <string name="tech_antimatter_bomb_short">反物质炸弹</string>
   <string name="tech_antimatter_detection">反物质探测</string>
   <string name="tech_antimatter_detection_description">"增加了探测行星上反物质矿脉的能力
 为拥有这种资源的殖民地提供+10能量"</string>
   <string name="tech_antimatter_detection_short">反物质探测</string>
   <string name="tech_antimatter_reactor">反物质反应堆</string>
-  <string name="tech_antimatter_reactor_description">允许舰队航行至%1$d ly以内的地方</string>
+  <string name="tech_antimatter_reactor_description">允许舰队航行至%1$d 光年以内的地方</string>
   <string name="tech_antimatter_reactor_plant">反物质反应堆工厂</string>
   <string name="tech_antimatter_reactor_plant_description">殖民地+%1$d能量</string>
   <string name="tech_antimatter_reactor_plant_short">反物质反应堆工厂</string>
@@ -1594,7 +1594,7 @@ QQChannel:pd7603xop9  </string>
 冲击波对范围内的舰船造成%1$d-%2$d的伤害, 每战斗回合移动%3$d距离"</string>
   <string name="tech_dimensional_charge_short">次元电荷</string>
   <string name="tech_dimensional_energy_bomb">次元能量炸弹</string>
-  <string name="tech_dimensional_energy_bomb_description">一枚对行星目标（建筑物、人口、步兵）造成%1$d-%2$d伤害的炸弹. </string>
+  <string name="tech_dimensional_energy_bomb_description">一枚对行星目标(建筑物、人口、步兵)造成%1$d-%2$d伤害的炸弹. </string>
   <string name="tech_dimensional_energy_bomb_short">次元炸弹</string>
   <string name="tech_dimensional_engines">次元引擎</string>
   <string name="tech_dimensional_engines_description">战斗中移动%1$d格</string>
@@ -1607,7 +1607,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_disruptor_beam_description">一种光束武器, 对舰船造成%1$d-%2$d的伤害. </string>
   <string name="tech_disruptor_beam_short">破坏者光束</string>
   <string name="tech_disruptor_rifle">破坏者步枪</string>
-  <string name="tech_disruptor_rifle_description">+%1$d部队步枪 (取代较弱的步枪)</string>
+  <string name="tech_disruptor_rifle_description">+%1$d部队武器伤害 (取代较弱的武器)</string>
   <string name="tech_disruptor_rifle_short">破坏者步枪</string>
   <string name="tech_dreadnought">无畏级战舰</string>
   <string name="tech_dreadnought_description">增加了从船坞设计和建造巨大战斗舰艇的能力</string>
@@ -1618,7 +1618,7 @@ QQChannel:pd7603xop9  </string>
 建造成本增加100%"</string>
   <string name="tech_extended_hull_short">延长船体</string>
   <string name="tech_fold_drive">曲速引擎</string>
-  <string name="tech_fold_drive_description">超光速引擎, 每回合移动速度为%1$d ly</string>
+  <string name="tech_fold_drive_description">超光速引擎, 每回合移动速度为%1$d 光年</string>
   <string name="tech_fold_drive_short">曲速引擎</string>
   <string name="tech_food_replicators">食物复制器</string>
   <string name="tech_food_replicators_description">+%1$d 殖民地食物</string>
@@ -1627,7 +1627,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_force_shields_description">根据舰船等级, 吸收%1$d至%2$d的HP, 每件武器吸收%3$d的伤害, %4$d%%的充能. </string>
   <string name="tech_force_shields_short">力场护盾</string>
   <string name="tech_fusion_reactor">聚变反应堆</string>
-  <string name="tech_fusion_reactor_description">允许舰队航行至%1$d ly以内的地方</string>
+  <string name="tech_fusion_reactor_description">允许舰队航行至%1$d 光年以内的地方</string>
   <string name="tech_fusion_reactor_plant">聚变反应堆工厂</string>
   <string name="tech_fusion_reactor_plant_description">殖民地+%1$d能量</string>
   <string name="tech_fusion_reactor_plant_short">聚变反应堆工厂</string>
@@ -1635,32 +1635,32 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_galactic_internet">银河互联网</string>
   <string name="tech_galactic_internet_description">幸福感增加%1$d%%</string>
   <string name="tech_galactic_internet_short">银河互联网</string>
-  <string name="tech_galactic_stock_exchange">银河交易所</string>
+  <string name="tech_galactic_stock_exchange">银河股票交易所</string>
   <string name="tech_galactic_stock_exchange_description">+%1$d%% 殖民地收入</string>
-  <string name="tech_galactic_stock_exchange_short">银河交易所</string>
+  <string name="tech_galactic_stock_exchange_short">银河股票交易所</string>
   <string name="tech_genetically_engineered_super_food">超级基因工程食物</string>
-  <string name="tech_genetically_engineered_super_food_description">每1农民粮食增加1</string>
+  <string name="tech_genetically_engineered_super_food_description">每1农民食物增加1</string>
   <string name="tech_genetically_engineered_super_food_short">超级基因工程食物</string>
-  <string name="tech_gravity_damper">重力阻尼器</string>
+  <string name="tech_gravity_damper">重力抑制器</string>
   <string name="tech_gravity_damper_description">将重力降低到正常水平</string>
-  <string name="tech_gravity_damper_short">重力阻尼器</string>
-  <string name="tech_gravity_generator">重力发生器</string>
+  <string name="tech_gravity_damper_short">重力抑制器</string>
+  <string name="tech_gravity_generator">重力生成器</string>
   <string name="tech_gravity_generator_description">将重力增加到正常水平</string>
-  <string name="tech_gravity_generator_short">重力发生器</string>
+  <string name="tech_gravity_generator_short">重力生成器</string>
   <string name="tech_hardened_armor_alloy">硬化合金装甲</string>
   <string name="tech_hardened_armor_alloy_description">将装甲的强度提高%1$d%%</string>
   <string name="tech_hardened_armor_alloy_short">合金装甲</string>
-  <string name="tech_heightened_intelligence">提高智力</string>
-  <string name="tech_heightened_intelligence_description">每1科学家的科学水平提高1</string>
-  <string name="tech_heightened_intelligence_short">提高智力</string>
+  <string name="tech_heightened_intelligence">强化智力</string>
+  <string name="tech_heightened_intelligence_description">每1科学家+1科技产出</string>
+  <string name="tech_heightened_intelligence_short">强化智力</string>
   <string name="tech_holographic_center">全息投影中心</string>
   <string name="tech_holographic_center_description">幸福感增加%1$d%%</string>
   <string name="tech_holographic_center_short">全息投影中心</string>
   <string name="tech_hyper_drive">超空间引擎</string>
-  <string name="tech_hyper_drive_description">超光速引擎, 每回合移动速度为%1$d ly</string>
+  <string name="tech_hyper_drive_description">超光速引擎, 每回合移动速度为%1$d 光年</string>
   <string name="tech_hyper_drive_short">超空间引擎</string>
   <string name="tech_hyperspace_communication">超空间通信</string>
-  <string name="tech_hyperspace_communication_description">与距离%1$d ly之内的舰队通信</string>
+  <string name="tech_hyperspace_communication_description">与距离%1$d 光年之内的舰队通信</string>
   <string name="tech_hyperspace_communication_short">超空间通信</string>
   <string name="tech_impulse_engines">脉冲引擎</string>
   <string name="tech_impulse_engines_description">战斗中移动%1$d格</string>
@@ -1669,7 +1669,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_ion_engines_description">战斗中移动%1$d格</string>
   <string name="tech_ion_engines_short">离子引擎</string>
   <string name="tech_laser_rifle">激光步枪</string>
-  <string name="tech_laser_rifle_description">+%1$d部队步枪 (取代较弱的步枪)</string>
+  <string name="tech_laser_rifle_description">+%1$d部队武器伤害 (取代较弱的武器)</string>
   <string name="tech_laser_rifle_short">激光步枪</string>
   <string name="tech_lescite_detection">粪便化石探测</string>
   <string name="tech_lescite_detection_description">"增加探测行星上粪便化石矿脉的能力
@@ -1688,7 +1688,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_level_needed_random">需要完成 %1$s 等级2$d的一项科技才能研究等级%3$d的科技</string>
   <string name="tech_level_only_one">每个等级只允许研究一项科技</string>
   <string name="tech_level_random">每个等级只允许一项随机科技</string>
-  <string name="tech_miniaturization">微型化</string>
+  <string name="tech_miniaturization">微分子学</string>
   <string name="tech_miniaturization_description">未来科技</string>
   <string name="tech_mining_outpost">小行星采矿前哨站</string>
   <string name="tech_mining_outpost_description">"增加了建造小行星采矿前哨的能力
@@ -1696,7 +1696,7 @@ QQChannel:pd7603xop9  </string>
 这些前哨站将增加该星系中的殖民地的产量"</string>
   <string name="tech_mining_outpost_short">小行星采矿前哨</string>
   <string name="tech_moon_base">月球基地</string>
-  <string name="tech_moon_base_description">最大人口数+%1$dm, 只能在有月球的行星上建造. </string>
+  <string name="tech_moon_base_description">人口上限+%1$dm, 只能在有月球的行星上建造. </string>
   <string name="tech_moon_base_short">月球基地</string>
   <string name="tech_multi_phased_targeting">多相瞄准</string>
   <string name="tech_multi_phased_targeting_description">"固定初始光束精度为%1$d
@@ -1717,13 +1717,13 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_none">无</string>
   <string name="tech_none_description">选择一项科技</string>
   <string name="tech_nova_bomb">新星炸弹</string>
-  <string name="tech_nova_bomb_description">一枚对行星目标（建筑物、人口、步兵）造成%1$d-%2$d伤害的炸弹. </string>
+  <string name="tech_nova_bomb_description">一枚对行星目标(建筑物、人口、步兵)造成%1$d-%2$d伤害的炸弹. </string>
   <string name="tech_nova_bomb_short">新星炸弹</string>
   <string name="tech_personal_shield">个人护盾</string>
   <string name="tech_personal_shield_description">+%1$d额外部队防御</string>
   <string name="tech_personal_shield_short">个人护盾</string>
   <string name="tech_phased_communication">相位通信</string>
-  <string name="tech_phased_communication_description">与距离%1$d ly之内的舰队通信</string>
+  <string name="tech_phased_communication_description">与距离%1$d 光年之内的舰队通信</string>
   <string name="tech_phased_communication_short">相位通信</string>
   <string name="tech_phased_engines">相位引擎</string>
   <string name="tech_phased_engines_description">战斗中移动%1$d格</string>
@@ -1739,7 +1739,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_phasor_beam_description">一种光束武器, 对舰船造成%1$d-%2$d的伤害. </string>
   <string name="tech_phasor_beam_short">相位光束</string>
   <string name="tech_phasor_rifle">相位步枪</string>
-  <string name="tech_phasor_rifle_description">+%1$d部队步枪 (取代较弱的步枪)</string>
+  <string name="tech_phasor_rifle_description">+%1$d部队武器伤害 (取代较弱的武器)</string>
   <string name="tech_phasor_rifle_short">相位步枪</string>
   <string name="tech_planetary_shield">行星护盾</string>
   <string name="tech_planetary_shield_description">降低炸弹伤害%1$d%%, 并阻止生物武器. </string>
@@ -1754,7 +1754,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_powered_armor_description">+%1$d的额外部队防御</string>
   <string name="tech_powered_armor_short">能量装甲</string>
   <string name="tech_pulse_rifle">脉冲步枪</string>
-  <string name="tech_pulse_rifle_description">+%1$d部队步枪 (取代较弱的步枪)</string>
+  <string name="tech_pulse_rifle_description">+%1$d部队武器伤害 (取代较弱的武器)</string>
   <string name="tech_pulse_rifle_short">脉冲步枪</string>
   <string name="tech_quantum_communication">量子通信</string>
   <string name="tech_quantum_communication_description">与任何距离的舰队进行通信</string>
@@ -1763,7 +1763,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_quantum_computer_description">每1科学家+%2$d, +%1$d科学</string>
   <string name="tech_quantum_computer_short">量子超级计算机</string>
   <string name="tech_quantum_generator">量子发电机</string>
-  <string name="tech_quantum_generator_description">允许舰队航行至%1$d ly以内的地方</string>
+  <string name="tech_quantum_generator_description">允许舰队航行至%1$d 光年以内的地方</string>
   <string name="tech_quantum_generator_plant">量子发电机工厂</string>
   <string name="tech_quantum_generator_plant_description">殖民地+%1$d能量</string>
   <string name="tech_quantum_generator_plant_short">量子发电机工厂</string>
@@ -1785,7 +1785,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_shield_capacitor_description">增加护盾的补给速度%1$d%%</string>
   <string name="tech_shield_capacitor_short">电容护盾</string>
   <string name="tech_slipstream_drive">时空引擎</string>
-  <string name="tech_slipstream_drive_description">超光速引擎, 每1回合移动速度为%1$d ly</string>
+  <string name="tech_slipstream_drive_description">超光速引擎, 每1回合移动速度为%1$d 光年</string>
   <string name="tech_slipstream_drive_short">时空引擎</string>
   <string name="tech_soil_enrichment">土壤增益</string>
   <string name="tech_soil_enrichment_description">每1农民+1食物</string>
@@ -1807,21 +1807,21 @@ QQChannel:pd7603xop9  </string>
 冲击波对范围内的舰船造成%1$d-%2$d的伤害, 每战斗回合移动%3$d距离"</string>
   <string name="tech_subspace_charge_short">亚空间电荷</string>
   <string name="tech_subspace_communication">亚空间通信</string>
-  <string name="tech_subspace_communication_description">与距离%1$d ly之内的舰队通信</string>
+  <string name="tech_subspace_communication_description">与距离%1$d 光年之内的舰队通信</string>
   <string name="tech_subspace_communication_short">亚空间通信</string>
   <string name="tech_tachyon_scanning">超光速粒子扫描</string>
-  <string name="tech_tachyon_scanning_description">将一个殖民地扫描器的范围增加到%1$d ly</string>
+  <string name="tech_tachyon_scanning_description">将一个殖民地扫描器的范围增加到%1$d 光年</string>
   <string name="tech_tachyon_scanning_short">超光速粒子扫描</string>
-  <string name="tech_terraforming">地质改造</string>
-  <string name="tech_terraforming_description">为地表改造成更好的气候环境</string>
-  <string name="tech_terraforming_short">地质改造</string>
+  <string name="tech_terraforming">行星改造</string>
+  <string name="tech_terraforming_description">行星改造获得更好的气候环境</string>
+  <string name="tech_terraforming_short">行星改造</string>
   <string name="tech_thetrium_armor">凯旋装甲</string>
   <string name="tech_thetrium_armor_description">将装甲的hp增加%1$dx</string>
   <string name="tech_thetrium_armor_short">凯旋装甲</string>
   <string name="tech_transphasic_torpedo">超相位导弹</string>
   <string name="tech_transphasic_torpedo_description">一枚速度为%1$d的导弹, 对舰船造成%2$d-%3$d的伤害. </string>
   <string name="tech_transphasic_torpedo_short">超相位导弹</string>
-  <string name="tech_transwarp_description">超光速引擎, 每1回合移动速度为%1$d ly</string>
+  <string name="tech_transwarp_description">超光速引擎, 每1回合移动速度为%1$d 光年</string>
   <string name="tech_transwarp_drive">超曲速引擎</string>
   <string name="tech_transwarp_drive_short">超曲速引擎</string>
   <string name="tech_type_ability">新增能力</string>
@@ -1849,7 +1849,7 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_vr_system_description">增加幸福感%1$d%%</string>
   <string name="tech_vr_system_short">VR系统</string>
   <string name="tech_warp_drive">曲速引擎</string>
-  <string name="tech_warp_drive_description">超光速引擎, 每回合移动速度为%1$d ly</string>
+  <string name="tech_warp_drive_description">超光速引擎, 每回合移动速度为%1$d 光年</string>
   <string name="tech_warp_drive_short">曲速引擎</string>
   <string name="tech_zero_point_energy">零点能量</string>
   <string name="tech_zero_point_energy_description">允许舰队在任何地方航行</string>
@@ -1857,18 +1857,18 @@ QQChannel:pd7603xop9  </string>
   <string name="tech_zero_point_energy_plant_description">殖民地+%1$d能量</string>
   <string name="tech_zero_point_energy_plant_short">零点能量工厂</string>
   <string name="tech_zero_point_energy_short">零点能量</string>
-  <string name="terraformed_food_per_turn_decreased">每1位农民基础食物减少了%1$s(%2$s -&gt; %3$s)</string>
-  <string name="terraformed_food_per_turn_increase">每1农民基础食物增加+%1$s(%2$s -&gt; %3$s)</string>
+  <string name="terraformed_food_per_turn_decreased">每1农民基础食物-%1$s(%2$s -&gt; %3$s)</string>
+  <string name="terraformed_food_per_turn_increase">每1农民基础食物+%1$s(%2$s -&gt; %3$s)</string>
   <string name="terraformed_header">%1$s地形已改造</string>
-  <string name="terraformed_maintenance_decrease">维护费用减少%1$d%%(%2$d%% -&gt; %3$d%%)</string>
-  <string name="terraformed_maintenance_increase">维修费用增加+%1$d%%(%2$d%% -&gt; %3$d%%)</string>
-  <string name="terraformed_max_pop_decrease">最大人口减少%1$dm(%2$dm -&gt; %3$dm)</string>
-  <string name="terraformed_max_pop_increase">最大人口增加+%1$dm(%2$dm -&gt; %3$dm)</string>
+  <string name="terraformed_maintenance_decrease">维护费用-%1$d%%(%2$d%% -&gt; %3$d%%)</string>
+  <string name="terraformed_maintenance_increase">维修费用+%1$d%%(%2$d%% -&gt; %3$d%%)</string>
+  <string name="terraformed_max_pop_decrease">人口上限-%1$dm(%2$dm -&gt; %3$dm)</string>
+  <string name="terraformed_max_pop_increase">人口上限+%1$dm(%2$dm -&gt; %3$dm)</string>
   <string name="terraformed_new_resource">新增资源:</string>
-  <string name="terraformed_pop_growth_decrease">人口增长减少%1$d%%(%2$d%% -&gt; %3$d%%)</string>
-  <string name="terraformed_pop_growth_increase">人口增长增加+%1$d%%(%2$d%% -&gt; %3$d%%)</string>
-  <string name="terraformed_production_per_turn_increase">每1工人基础产量增加+%1$s(%2$s -&gt; %3$s)</string>
-  <string name="terraformed_science_per_turn_increase">每1科学家基础科学增加+%1$s(%2$s -&gt; %3$s)</string>
+  <string name="terraformed_pop_growth_decrease">人口增长-%1$d%%(%2$d%% -&gt; %3$d%%)</string>
+  <string name="terraformed_pop_growth_increase">人口增长+%1$d%%(%2$d%% -&gt; %3$d%%)</string>
+  <string name="terraformed_production_per_turn_increase">每1工人基础产量+%1$s(%2$s -&gt; %3$s)</string>
+  <string name="terraformed_science_per_turn_increase">每1科学家基础科学+%1$s(%2$s -&gt; %3$s)</string>
   <string name="time_hour">小时</string>
   <string name="time_hours">小时</string>
   <string name="time_min">分钟</string>
@@ -1896,7 +1896,7 @@ QQChannel:pd7603xop9  </string>
   <string name="troop_unload_troops">部队</string>
   <string name="unable_to_rename_no_only_one">无法改变星系名称. 你不是这个星系中唯一的统领. </string>
   <string name="unable_to_rename_no_presence">无法更改星系名称. 你在这个星系中没有存在感. </string>
-  <string name="unexplored_distance">%1$d ly 距离</string>
+  <string name="unexplored_distance">%1$d 光年距离</string>
   <string name="victory_ameoli">现在, 虫群将被允许在没有任何限制的情况下进行扩张. 所有的人都将生活在阿梅利的统治和力量下, 在最高领导者的引领下. </string>
   <string name="victory_bylon">我们已经适应并走到这一步, 我们将继续这样做, 以推动可能的限制. 凭借逻辑和智慧, 拜伦共同体将管理所有的人. </string>
   <string name="victory_coalition">联盟胜利</string>
@@ -1912,13 +1912,13 @@ QQChannel:pd7603xop9  </string>
   <string name="victory_military">军事胜利</string>
   <string name="victory_sothren">虽然生命的损失是不幸的, 但我们的事业是正义的, 我们的道路是正确的. 我们成功地消除了黑暗, 传播了圣光. 终于, 银河的这一部分现在可以在索斯伦教派的指导下茁壮成长. </string>
   <string name="victory_tarlish">我们去行星上寻找更大的荣誉. 虽然道路并不平坦, 但我们的探索是成功的. 塔利什帝国万岁!</string>
-  <string name="warning_blockade_description">粮食和资源无法进口</string>
+  <string name="warning_blockade_description">食物和资源无法进口</string>
   <string name="warning_blockade_title">行星被封锁</string>
   <string name="warning_empty_colony_description">"这个殖民地没有人口. 
 需要从另一个殖民地迁移人口"</string>
   <string name="warning_empty_colony_title">空殖民地</string>
   <string name="warning_power_description">"重力正常化的建筑将无法工作
-消耗能量的建筑将只给你一半的产出（即食物、生产、幸福等）"</string>
+消耗能量的建筑将只给你一半的产出(即食物、生产、幸福等)"</string>
   <string name="warning_power_title">低能量</string>
   <string name="warning_starving_description">部分人口将在下回合开始时死亡</string>
   <string name="warning_starving_title">饥饿</string>
